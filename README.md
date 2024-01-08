@@ -1,0 +1,3 @@
+- Hey, I’m @Henrydoescodes!
+- I’m interested in anything that's programming!
+- I’m currently learning Python, planning to branch out into C# and JS
